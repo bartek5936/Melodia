@@ -29,5 +29,6 @@ while not b == '0':
     plik.write(str(wynik))
     if b == 0:
         break
-
+print("koniec dzialania")
+print("dziekuje")
 

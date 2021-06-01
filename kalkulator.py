@@ -25,7 +25,7 @@ while not b == '0':
 
             print("nie dziel przez zero")
 
-    plik = open("../../Users/Bartłomiej/PycharmProjects/pythonProject/wynikdzi2alania.txt", "w")
+    plik = open("wynikdzi2alania.txt", "w")
     plik.write(str(wynik))
     if b == 0:
         break
